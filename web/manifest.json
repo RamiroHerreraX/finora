@@ -1,6 +1,6 @@
 {
-    "name": "finora",
-    "short_name": "finora",
+    "name": "login_sqlite_app",
+    "short_name": "login_sqlite_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

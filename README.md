@@ -1,4 +1,4 @@
-# finora
+# login_sqlite_app
 
 A new Flutter project.
 
